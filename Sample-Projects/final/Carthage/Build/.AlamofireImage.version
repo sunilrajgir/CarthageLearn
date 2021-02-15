@@ -1,0 +1,10 @@
+{
+  "commitish" : "3.6.0",
+  "iOS" : [
+    {
+      "name" : "AlamofireImage",
+      "hash" : "9c3f1e38982517cde2f62bef143c311d0020c33021463f23d25ae1eb8f684fd6",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ]
+}
